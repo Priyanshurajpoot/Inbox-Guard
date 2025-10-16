@@ -401,7 +401,7 @@ SOFTWARE.
 - **🚀 Downloads**: [GitHub Releases](https://github.com/Priyanshurajpoot/Inbox-Guard/releases)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/Priyanshurajpoot/Inbox-Guard/discussions)
 - **📧 Email**: priyanshux5xraj@gmail.com
-- **👨‍💻 Developer**: [Priyanshu Rajpoot](www.linkedin.com/in/priyanshu-rajpoot-199503256)
+- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://.linkedin.com/in/priyanshu-rajpoot-199503256)
 
 ---
 
@@ -442,3 +442,4 @@ Special thanks to:
 
 
 *MCA Post Graduate | Chrome Extension Developer | AI Enthusiast*
+

@@ -16,7 +16,7 @@
 **Priyanshu Rajpoot**  
 *MCA Post Graduate | Python Developer | Prompt Engineer | AI Enthusiast*
 
-- 🔗 **LinkedIn**: [priyanshux5](https://linkedin.com/in/priyanshu-rajpoot-199503256)
+- 🔗 **LinkedIn**: [PriyanshuRajpoot](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 - 💻 **GitHub**: [Priyanshurajpoot](https://github.com/Priyanshurajpoot)
 - 📧 **Email**: priyanshux5xraj@gmail.com
 
@@ -401,7 +401,7 @@ SOFTWARE.
 - **🚀 Downloads**: [GitHub Releases](https://github.com/Priyanshurajpoot/Inbox-Guard/releases)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/Priyanshurajpoot/Inbox-Guard/discussions)
 - **📧 Email**: priyanshux5xraj@gmail.com
-- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://.linkedin.com/in/priyanshu-rajpoot-199503256)
+- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 
 ---
 
@@ -425,7 +425,7 @@ Special thanks to:
 - **📂 Repository**: [Inbox Guard on GitHub](https://github.com/Priyanshurajpoot/Inbox-Guard.git)
 - **🚀 Releases**: [Latest Releases](https://github.com/Priyanshurajpoot/Inbox-Guard/releases)
 - **🐛 Issues**: [Report Issues](https://github.com/Priyanshurajpoot/Inbox-Guard/issues)
-- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://.linkedin.com/in/priyanshu-rajpoot-199503256)
+- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 
 ---
 ## AUTHOR
@@ -436,4 +436,5 @@ Special thanks to:
 ---
 
  
+
 
